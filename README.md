@@ -13,7 +13,3 @@ This project focuses on processing and analyzing geographic data using the ITRF2
    - Analyze elevation models, terrain features, and spatial relationships.
    - Perform overlay analysis for intersecting geospatial datasets.
 
-### Tools and Technologies
-- Software: QGIS, Python
-- Libraries: GDAL, PyQGIS, Matplotlib
-- Data Format: GeoTIFF, Shapefile, CSV
